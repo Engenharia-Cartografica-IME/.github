@@ -37,7 +37,7 @@ Se precisar de ajuda com Git e GitHub, veja a [documentação oficial](https://d
 
 ### 📬 Contato
 
-- **E‑mail institucional da Seção:** `cartografia@ime.eb.br`  
+- **E‑mail institucional da Seção:** `se6@ime.eb.br`  
 - **Site do IME:** <https://www.ime.eb.mil.br>  
 
 ---
