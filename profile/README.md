@@ -17,7 +17,10 @@ Nosso objetivo é **centralizar, versionar e compartilhar** o conhecimento gerad
 
 ### 🌐 Projetos em destaque
 
-> (Em breve) Faremos curadoria de alguns repositórios para exibir aqui.  
+| Projeto | Descrição rápida |
+|---------|------------------|
+| [Usability Evaluation of Digital Maps in Light and Dark Modes](https://github.com/cardosoeng09/usability-evaluation-of-digital-maps-in-light-and-dark-modes) | Estudo de usabilidade comparando mapas claros e escuros. |
+
 > Caso queira sugerir um projeto, abra uma _issue_ ou envie um _pull request_ no repositório **``** (a ser criado).
 
 ---
